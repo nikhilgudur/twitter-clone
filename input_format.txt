@@ -1,0 +1,19 @@
+Registration
+
+{
+	"first_name": "Nikhil",
+	"last_name": "Gudur",
+	"email": "nikhil@op.com",
+	"password": "nikhil"
+}
+
+Login
+
+{
+	"email":"nikhil@op.com",
+	"password":"nikhil"
+}
+
+Auth Header
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MX0.WaL3x5PyBuHnT2FJA4L8SK9vjhkaBdyZ2xdWIX2RM8w
